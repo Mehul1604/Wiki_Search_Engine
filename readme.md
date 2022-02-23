@@ -1,4 +1,4 @@
-Link to latest data dump - https://dumps.wikimedia.org/enwiki/20220220/enwiki-20220220-pages-articles-multistream.xml.bz2
+Link to latest data dump - https://dumps.wikimedia.org/enwiki/20220220/enwiki-20220220-pages-articles-multistream.xml.bz2<br>
 INDEX CREATION
 script => index_creation.py
 
